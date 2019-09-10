@@ -31,3 +31,5 @@ encourages you to share these documents. See
 https://creativecommons.org/licenses/by/3.0/ for more details.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
+
+you could also vist [Google's Engineering Practices documentation: How to do a code review](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/d0962s/googles_engineering_practices_documentation_how/)
